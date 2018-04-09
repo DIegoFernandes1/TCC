@@ -1,0 +1,276 @@
+C:\Gnomo\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Gnomo\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gnomo\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gnomo\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gnomo\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Gnomo\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Gnomo\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Gnomo\Estoque\Estoque\bin\Estoque.dll.config
+C:\Gnomo\Estoque\Estoque\bin\Estoque.dll
+C:\Gnomo\Estoque\Estoque\bin\Estoque.pdb
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Gnomo\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Gnomo\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Gnomo\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Gnomo\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Gnomo\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Estoque.dll.config
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Estoque.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Estoque.pdb
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Users\sn1047578\Desktop\Estoque\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\Diego\Desktop\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Estoque.dll.config
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Estoque.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Estoque.pdb
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Users\Diego\Desktop\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Estoque.dll.config
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Estoque.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Estoque.pdb
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Users\Aluno\Documents\Diego Fernandes\Programação WEB\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Estoque.dll.config
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Estoque.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Estoque.pdb
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Users\sn1047578\Desktop\WEB\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Gnomo\LPW\Estoque\Estoque\bin\ApplicationInsights.config
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\csc.exe
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\System.Collections.Immutable.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\System.Reflection.Metadata.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\vbc.exe
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe
+C:\Gnomo\LPW\Estoque\Estoque\bin\roslyn\VBCSCompiler.exe.config
+C:\Gnomo\LPW\Estoque\Estoque\bin\Estoque.dll.config
+C:\Gnomo\LPW\Estoque\Estoque\bin\Estoque.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Estoque.pdb
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.Web.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.ApplicationInsights.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.Web.Infrastructure.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Helpers.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Mvc.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Razor.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.Deployment.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.Razor.dll
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.DependencyCollector.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.Web.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.AI.WindowsServer.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.ApplicationInsights.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Razor.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.Deployment.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Webpages.Razor.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Helpers.xml
+C:\Gnomo\LPW\Estoque\Estoque\bin\System.Web.Mvc.xml
+C:\Gnomo\LPW\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Gnomo\LPW\Estoque\Estoque\obj\Debug\Estoque.dll
+C:\Gnomo\LPW\Estoque\Estoque\obj\Debug\Estoque.pdb
